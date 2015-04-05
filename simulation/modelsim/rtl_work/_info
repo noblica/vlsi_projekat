@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Dusan\Documents\VLSI\Projekat\simulation\modelsim
+Ealu
+Z1 w1428268458
+Z2 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\Dusan\Documents\VLSI\Projekat\simulation\modelsim
+Z6 8C:/Users/Dusan/Documents/VLSI/Projekat/vlsi_projekat.vhd
+Z7 FC:/Users/Dusan/Documents/VLSI/Projekat/vlsi_projekat.vhd
+l0
+L5
+Vh0GzBnk[RnN6nBhfB9_5O3
+Z8 OV;C;10.1d;51
+31
+Z9 !s108 1428273312.529000
+Z10 !s90 -reportprogress|300|-93|-work|work|C:/Users/Dusan/Documents/VLSI/Projekat/vlsi_projekat.vhd|
+Z11 !s107 C:/Users/Dusan/Documents/VLSI/Projekat/vlsi_projekat.vhd|
+Z12 o-93 -work work -O0
+Z13 tExplicit 1
+!s100 @Lek8nU0Ve<DHR9:oJO;a1
+!i10b 1
+Aaluarch
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 h0GzBnk[RnN6nBhfB9_5O3
+l16
+L14
+VM7:_4@;0Wl1zCW8?<nUlc0
+R8
+31
+R9
+R10
+R11
+R12
+R13
+!s100 ;QfWoZfbB`B=2OblfdMcB0
+!i10b 1
+Ealu_vhd_tst
+Z14 w1428273285
+R2
+R3
+R4
+R5
+Z15 8C:/Users/Dusan/Documents/VLSI/Projekat/simulation/modelsim/alu.vht
+Z16 FC:/Users/Dusan/Documents/VLSI/Projekat/simulation/modelsim/alu.vht
+l0
+L5
+V`_h:o?>WTdM0`1>74X4RA2
+!s100 gRT1i8C65n6GEeXd47WD51
+R8
+31
+!i10b 1
+Z17 !s108 1428273312.814000
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/Users/Dusan/Documents/VLSI/Projekat/simulation/modelsim/alu.vht|
+Z19 !s107 C:/Users/Dusan/Documents/VLSI/Projekat/simulation/modelsim/alu.vht|
+R12
+R13
+Aalu_arch
+R2
+R3
+R4
+DEx4 work 11 alu_vhd_tst 0 22 `_h:o?>WTdM0`1>74X4RA2
+l39
+L7
+V2S0o7432GKFAodc=0YPgY2
+!s100 HPP1JCgk<iefI]ed:OMoO1
+R8
+31
+!i10b 1
+R17
+R18
+R19
+R12
+R13
